@@ -1,0 +1,39 @@
+# Credentials and secrets
+credentials.json
+service_account.json
+.env
+settings.yaml
+
+# User data
+*_memory.json
+user_memory.json
+ias_memory.json
+
+# Data files
+data/
+calendar.json
+expenses.json
+meals.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
